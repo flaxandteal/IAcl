@@ -6,9 +6,11 @@
     "homepage": "https://github.com/bendo01/IAcl",
     "keywords": ["cakephp", "acl"],
     "authors": [
-        "name": "Benny Leonard Enrico Panggabean",
-        "homepage": "https://github.com/bendo01/",
-        "role": "Author"
+        {
+            "name": "Benny Leonard Enrico Panggabean",
+            "homepage": "https://github.com/bendo01/",
+            "role": "Author"
+        }
     ],
     "support": {
         "issues": "https://github.com/bendo01/IAcl/issues",

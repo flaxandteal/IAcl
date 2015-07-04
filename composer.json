@@ -1,0 +1,22 @@
+{
+    "name": "bendo01/IAcl",
+    "description" : "iAcl formaly name Evana Fitria ACL, credits to mark story, nicolas rod, cakephp, jquery, datatables js, twitter bootstrap, and font awesome",
+    "license" : "Creative Commons Attribution 3.0 United States",
+    "type" : "cakephp-plugin",
+    "homepage": "https://github.com/bendo01/IAcl",
+    "keywords": ["cakephp", "acl"],
+    "authors": [
+        "name": "Benny Leonard Enrico Panggabean",
+        "homepage": "https://github.com/bendo01/",
+        "role": "Author"
+    ],
+    "support": {
+        "issues": "https://github.com/bendo01/IAcl/issues",
+        "source": "https://github.com/bendo01/IAcl"
+    },
+    "require": {
+        "composer/installers": "*"
+    },
+    "require-dev" : {
+    }
+}
